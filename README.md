@@ -1,1 +1,1 @@
-https://github.com/Uni-VladislavKochurovskiy/ono-tebe-nado
+https://github.com/fredtheking/ono-tebe-nado-ad
